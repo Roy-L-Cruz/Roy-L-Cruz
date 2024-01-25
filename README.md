@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roy-L-Cruz
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java/js
+- 🌱 I’m currently studying to be a web developer
 - 💞️ I’m looking to collaborate on some entry level coding
 - 📫 How to reach me roylimin18@gmial.com
 - 😄 Pronouns: ...
